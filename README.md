@@ -1,5 +1,7 @@
 ### Hi there 👋
+Selamat datang di repositori saya, berisi project DSA dan project individu saya. Selamat menjelajah.
 
+Saya suka dengan tantangan, dan saya membuat program ini dengan otodidak yang dimiliki oleh saya.
 <!--
 **daniel18a/daniel18a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
